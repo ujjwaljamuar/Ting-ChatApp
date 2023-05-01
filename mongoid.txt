@@ -1,0 +1,5 @@
+mongodb+srv://ckmobile:ckmobile123@cluster0.niuuw.mongodb.net/chat-database?retryWrites=true&w=majority
+
+Ujjwaljam123
+
+mongodb+srv://ujjwaljamuar:Ujjwaljam123@cluster0.yzzav.mongodb.net/myFirstDatabase?retryWrites=true&w=majority

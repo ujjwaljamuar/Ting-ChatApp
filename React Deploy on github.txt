@@ -1,0 +1,14 @@
+npm install gh-pages --save-dev
+git remote add origin https://github.com/ujjwaljamuar/LGM-Task-2.git
+
+package.json->
+"homepage": "https://ujjwaljamuar.github.io/LGM-Task-2",
+
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+
+git init
+git add .
+
+npm run deploy
